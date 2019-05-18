@@ -29,7 +29,7 @@
     <td>Слага се задължително на footer елемента в страницата!</td>
   </tr>
   <tr>
-```<h22 nqkav="#">habala babala</h22>```
+    <td>```<h22 nqkav="#">habala babala</h22>```</td>
   </tr>
 </table>
 
