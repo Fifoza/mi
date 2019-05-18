@@ -2,6 +2,33 @@
 
 <h2>Амииии Документация:</h2>
 
+<h2>Задължително е да се използва mi-config.css файла, защото от него зависят основни стойности които mi.css изполузва! Стойностите в него са описани чрез css variables. Минималните стойности които са нужани са:</h2>
+<p>
+    :root {
+      --primary-color: основен цвят на сайта;
+      --primary-hover-color: по-тъмен основен цвят на сайта;
+      --success-color: цвят за успех;
+      --success-hover-color: по-тъмен цвят за успех;
+      --warning-color: цвят за предупреждение;
+      --warning-hover-color: по-тъмен цвят за предупреждение;
+      --danger-color: цвят за опасност;
+      --danger-hover-color: по-тъмен цвят за опасност;
+      --info-color: цвят за информация;
+      --info-hover-color: по-тъмен цвят за информация;
+      --white-color: #ffffff;
+      --gray-color: някакав сив цвят;
+      --rem: 16px;
+      --nav-height: височина на навигацията в rem!;
+      --header-desktop-background-image: url(път до изображение);
+      --header-notebook-background-image: url(път до изображение);
+      --header-tablet-background-image: url(път до изображение);
+      --header-mobile-background-image: url(път до изображение);
+      --main-background-image: url(път до изображение);
+      --btn-nav-max-height: максимална височина за бутони в навигацията в мерна единица vw;
+      --footer-gap: gap свойството за сайта, задължително в rem;
+    }
+</p>
+
 <h2>Задължителни класове за всяка страница</h2>
 <table>
   <tr>
