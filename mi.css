@@ -1395,31 +1395,31 @@ fieldset:disabled a.mi-btn-footer {
   .mi-row-for-desktop {
     grid-template-rows: 1fr; 
   }
-  .mi-rows-2-for-desktop {
+  .mi-2-rows-for-desktop {
     grid-template-rows: repeat(2,1fr);
   }
-  .mi-rows-3-for-desktop {
+  .mi-3-rows-for-desktop {
     grid-template-rows: repeat(3,1fr);
   }
-  .mi-rows-4-for-desktop {
+  .mi-4-rows-for-desktop {
     grid-template-rows: repeat(4,1fr);
   }
-  .mi-rows-5-for-desktop {
+  .mi-5-rows-for-desktop {
     grid-template-rows: repeat(5,1fr);
   }
-  .mi-rows-6-for-desktop {
+  .mi-6-rows-for-desktop {
     grid-template-rows: repeat(6,1fr);
   }
-  .mi-rows-7-for-desktop {
+  .mi-7-rows-for-desktop {
     grid-template-rows: repeat(7,1fr);
   }
-  .mi-rows-8-for-desktop {
+  .mi-8-rows-for-desktop {
     grid-template-rows: repeat(8,1fr);
   }
-  .mi-rows-9-for-desktop {
+  .mi-9-rows-for-desktop {
     grid-template-rows: repeat(9,1fr);
   }
-  .mi-rows-10-for-desktop {
+  .mi-10-rows-for-desktop {
     grid-template-rows: repeat(10,1fr);
   }
 
@@ -1491,31 +1491,31 @@ fieldset:disabled a.mi-btn-footer {
   .mi-row-for-notebook {
     grid-template-rows: 1fr; 
   }
-  .mi-rows-2-for-notebook {
+  .mi-2-rows-for-notebook {
     grid-template-rows: repeat(2,1fr);
   }
-  .mi-rows-3-for-notebook {
+  .mi-3-rows-for-notebook {
     grid-template-rows: repeat(3,1fr);
   }
-  .mi-rows-4-for-notebook {
+  .mi-4-rows-for-notebook {
     grid-template-rows: repeat(4,1fr);
   }
-  .mi-rows-5-for-notebook {
+  .mi-5-rows-for-notebook {
     grid-template-rows: repeat(5,1fr);
   }
-  .mi-rows-6-for-notebook {
+  .mi-6-rows-for-notebook {
     grid-template-rows: repeat(6,1fr);
   }
-  .mi-rows-7-for-notebook {
+  .mi-7-rows-for-notebook {
     grid-template-rows: repeat(7,1fr);
   }
-  .mi-rows-8-for-notebook {
+  .mi-8-rows-for-notebook {
     grid-template-rows: repeat(8,1fr);
   }
-  .mi-rows-9-for-notebook {
+  .mi-9-rows-for-notebook {
     grid-template-rows: repeat(9,1fr);
   }
-  .mi-rows-10-for-notebook {
+  .mi-10-rows-for-notebook {
     grid-template-rows: repeat(10,1fr);
   }
 
@@ -1587,31 +1587,31 @@ fieldset:disabled a.mi-btn-footer {
   .mi-row-for-tablet {
     grid-template-rows: 1fr; 
   }
-  .mi-rows-2-for-tablet {
+  .mi-2-rows-for-tablet {
     grid-template-rows: repeat(2,1fr);
   }
-  .mi-rows-3-for-tablet {
+  .mi-3-rows-for-tablet {
     grid-template-rows: repeat(3,1fr);
   }
-  .mi-rows-4-for-tablet {
+  .mi-4-rows-for-tablet {
     grid-template-rows: repeat(4,1fr);
   }
-  .mi-rows-5-for-tablet {
+  .mi-5-rows-for-tablet {
     grid-template-rows: repeat(5,1fr);
   }
-  .mi-rows-6-for-tablet {
+  .mi-6-rows-for-tablet {
     grid-template-rows: repeat(6,1fr);
   }
-  .mi-rows-7-for-tablet {
+  .mi-7-rows-for-tablet {
     grid-template-rows: repeat(7,1fr);
   }
-  .mi-rows-8-for-tablet {
+  .mi-8-rows-for-tablet {
     grid-template-rows: repeat(8,1fr);
   }
-  .mi-rows-9-for-tablet {
+  .mi-9-rows-for-tablet {
     grid-template-rows: repeat(9,1fr);
   }
-  .mi-rows-10-for-tablet {
+  .mi-10-rows-for-tablet {
     grid-template-rows: repeat(10,1fr);
   }
   
@@ -1683,31 +1683,31 @@ fieldset:disabled a.mi-btn-footer {
   .mi-row-for-mobile {
     grid-template-rows: 1fr; 
   }
-  .mi-rows-2-for-mobile {
+  .mi-2-rows-for-mobile {
     grid-template-rows: repeat(2,1fr);
   }
-  .mi-rows-3-for-mobile {
+  .mi-3-rows-for-mobile {
     grid-template-rows: repeat(3,1fr);
   }
-  .mi-rows-4-for-mobile {
+  .mi-4-rows-for-mobile {
     grid-template-rows: repeat(4,1fr);
   }
-  .mi-rows-5-for-mobile {
+  .mi-5-rows-for-mobile {
     grid-template-rows: repeat(5,1fr);
   }
-  .mi-rows-6-for-mobile {
+  .mi-6-rows-for-mobile {
     grid-template-rows: repeat(6,1fr);
   }
-  .mi-rows-7-for-mobile {
+  .mi-7-rows-for-mobile {
     grid-template-rows: repeat(7,1fr);
   }
-  .mi-rows-8-for-mobile {
+  .mi-8-rows-for-mobile {
     grid-template-rows: repeat(8,1fr);
   }
-  .mi-rows-9-for-mobile {
+  .mi-9-rows-for-mobile {
     grid-template-rows: repeat(9,1fr);
   }
-  .mi-rows-10-for-mobile {
+  .mi-10-rows-for-mobile {
     grid-template-rows: repeat(10,1fr);
   }
   

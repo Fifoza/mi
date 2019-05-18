@@ -102,99 +102,110 @@
     <p>Помага на елементи с display: grid; да дишат(примерно във footer елемента). Нужно е да ? да се замести със стойност от 0 до 5. Колкото по-голямо е числото, толкова повече място ще бъде осигурено.</p>
   </li>
 
+  <li>
+    <table>
+      <tr>
+        <th>име на класа</th>
+        <th>описание</th>
+      </th>
+      <tr>
+        <td>
+          .mi-column-for-desktop
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 колона, когато резолюцията е за desktop.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-columns-for-desktop
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? колони, където ? може да е между 2 и 12, когато резолюцията е за desktop.</td>
+      </tr>
+      </tr>
+      <tr>
+        <td>
+          .mi-row-for-desktop
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 ред, когато резолюцията е за desktop.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-rows-for-desktop
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? реда, където ? може да е между 2 и 10, когато резолюцията е за desktop.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-column-for-notebook
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 колона, когато резолюцията е за notebook.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-columns-for-notebook
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? колони, където ? може да е между 2 и 12, когато резолюцията е за notebook.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-row-for-notebook
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 ред, когато резолюцията е за notebook.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-rows-for-notebook
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? реда, където ? може да е между 2 и 10, когато резолюцията е за notebook.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-column-for-tablet
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 колона, когато резолюцията е за tablet.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-columns-for-tablet
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? колони, където ? може да е между 2 и 12, когато резолюцията е за tablet.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-row-for-tablet
+        </td>
+      </tr>
+        <td>Елементите в този елемент ще са подредени в 1 ред, когато резолюцията е за tablet.</td>
+      <tr>
+        <td>
+          .mi-?-rows-for-tablet
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? реда, където ? може да е между 2 и 10, когато резолюцията е за tablet.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-column-for-mobile
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 колона, когато резолюцията е за tablet.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-columns-for-mobile
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? колони, където ? може да е между 2 и 12, когато резолюцията е за mobile.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-row-for-mobile
+        </td>
+        <td>Елементите в този елемент ще са подредени в 1 ред, когато резолюцията е за mobile.</td>
+      </tr>
+      <tr>
+        <td>
+          .mi-?-rows-for-mobile
+        </td>
+        <td>Елементите в този елемент ще са подредени в ? реда, където ? може да е между 2 и 10, когато резолюцията е за mobile.</td>
+      </tr>
+    </table>
+  </li>
+
 </ul>
-
-
-
-
-
-<!-- 
-.mi-column-for-desktop,
-.mi-columns-2-for-desktop,
-.mi-columns-3-for-desktop,
-.mi-columns-4-for-desktop,
-.mi-columns-5-for-desktop,
-.mi-columns-6-for-desktop,
-.mi-columns-7-for-desktop,
-.mi-columns-8-for-desktop,
-.mi-columns-9-for-desktop,
-.mi-columns-10-for-desktop,
-.mi-columns-11-for-desktop,
-.mi-columns-12-for-desktop,
-.mi-row-for-desktop,
-.mi-rows-2-for-desktop,
-.mi-rows-3-for-desktop,
-.mi-rows-4-for-desktop,
-.mi-rows-5-for-desktop,
-.mi-rows-6-for-desktop,
-.mi-rows-7-for-desktop,
-.mi-rows-8-for-desktop,
-.mi-rows-9-for-desktop,
-.mi-rows-10-for-desktop,
-.mi-column-for-notebook,
-.mi-columns-2-for-notebook,
-.mi-columns-3-for-notebook,
-.mi-columns-4-for-notebook,
-.mi-columns-5-for-notebook,
-.mi-columns-6-for-notebook,
-.mi-columns-7-for-notebook,
-.mi-columns-8-for-notebook,
-.mi-columns-9-for-notebook,
-.mi-columns-10-for-notebook,
-.mi-columns-11-for-notebook,
-.mi-columns-12-for-notebook,
-.mi-row-for-notebook,
-.mi-rows-2-for-notebook,
-.mi-rows-3-for-notebook,
-.mi-rows-4-for-notebook,
-.mi-rows-5-for-notebook,
-.mi-rows-6-for-notebook,
-.mi-rows-7-for-notebook,
-.mi-rows-8-for-notebook,
-.mi-rows-9-for-notebook,
-.mi-rows-10-for-notebook,
-.mi-column-for-tablet,
-.mi-columns-2-for-tablet,
-.mi-columns-3-for-tablet,
-.mi-columns-4-for-tablet,
-.mi-columns-5-for-tablet,
-.mi-columns-6-for-tablet,
-.mi-columns-7-for-tablet,
-.mi-columns-8-for-tablet,
-.mi-columns-9-for-tablet,
-.mi-columns-10-for-tablet,
-.mi-columns-11-for-tablet,
-.mi-columns-12-for-tablet,
-.mi-row-for-tablet,
-.mi-rows-2-for-tablet,
-.mi-rows-3-for-tablet,
-.mi-rows-4-for-tablet,
-.mi-rows-5-for-tablet,
-.mi-rows-6-for-tablet,
-.mi-rows-7-for-tablet,
-.mi-rows-8-for-tablet,
-.mi-rows-9-for-tablet,
-.mi-rows-10-for-tablet,
-.mi-column-for-mobile,
-.mi-columns-2-for-mobile,
-.mi-columns-3-for-mobile,
-.mi-columns-4-for-mobile,
-.mi-columns-5-for-mobile,
-.mi-columns-6-for-mobile,
-.mi-columns-7-for-mobile,
-.mi-columns-8-for-mobile,
-.mi-columns-9-for-mobile,
-.mi-columns-10-for-mobile,
-.mi-columns-11-for-mobile,
-.mi-columns-12-for-mobile,
-.mi-row-for-mobile,
-.mi-rows-2-for-mobile,
-.mi-rows-3-for-mobile,
-.mi-rows-4-for-mobile,
-.mi-rows-5-for-mobile,
-.mi-rows-6-for-mobile,
-.mi-rows-7-for-mobile,
-.mi-rows-8-for-mobile,
-.mi-rows-9-for-mobile,
-.mi-rows-10-for-mobile
- -->
