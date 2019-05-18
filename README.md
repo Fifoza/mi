@@ -36,22 +36,19 @@
     <td>Снипет за копиране</td>
 <td>
 
-        <body>
-                <div class="mi-layout">
-                        <nav class="mi-navbar">
-                                ...code
-                        </nav>
-                        <header class="mi-header">
-                                ...code
-                        </header>
-                        <main class="mi-main">
-                                ...code
-                        </main>
-                        <footer class="mi-footer">
-                                ...code
-                        </footer>
-                </div>
-        <body>
+    <body>
+        <div class="mi-layout">
+
+            <nav class="mi-navbar"></nav>
+
+            <header class="mi-header"></header>
+
+            <main class="mi-main"></main>
+
+            <footer class="mi-footer"></footer>
+
+        </div>
+    <body>
 
 </td>
   </tr>
