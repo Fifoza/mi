@@ -28,8 +28,11 @@
     <td>.mi-footer</td>
     <td>Слага се задължително на footer елемента в страницата!</td>
   </tr>
-  <tr>
-    <td>```<h22 nqkav="#">habala babala</h22>```</td>
+  <tr colspan=2>
+    <td>
+```html
+    <h22 nqkav="#">habala babala</h22>
+```</td>
   </tr>
 </table>
 
