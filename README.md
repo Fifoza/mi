@@ -25,11 +25,9 @@
     <td>Слага се задължително на main елемента!</td>
   </tr>
   <tr>
-<td>
-
-    .mi-footer
-
-</td>
+    <td>
+      .mi-footer
+    </td>
     <td>Слага се задължително на footer елемента в страницата!</td>
   </tr>
   <tr>
@@ -37,17 +35,17 @@
 <td>
 
     <body>
-        <div class="mi-layout">
+      <div class="mi-layout">
 
-            <nav class="mi-navbar"></nav>
+        <nav class="mi-navbar"></nav>
 
-            <header class="mi-header"></header>
+        <header class="mi-header"></header>
 
-            <main class="mi-main"></main>
+        <main class="mi-main"></main>
 
-            <footer class="mi-footer"></footer>
+        <footer class="mi-footer"></footer>
 
-        </div>
+      </div>
     <body>
 
 </td>
