@@ -25,13 +25,33 @@
     <td>Слага се задължително на main елемента!</td>
   </tr>
   <tr>
-    <td>        .mi-footer        </td>
+<td>
+
+    .mi-footer
+
+</td>
     <td>Слага се задължително на footer елемента в страницата!</td>
   </tr>
   <tr>
-<td colspan=2>
+    <td>Снипет за копиране</td>
+<td>
 
-        <h2>habala babala</h2>
+        <body>
+                <div class="mi-layout">
+                        <nav class="mi-navbar">
+                                ...code
+                        </nav>
+                        <header class="mi-header">
+                                ...code
+                        </header>
+                        <main class="mi-main">
+                                ...code
+                        </main>
+                        <footer class="mi-footer">
+                                ...code
+                        </footer>
+                </div>
+        <body>
 
 </td>
   </tr>
