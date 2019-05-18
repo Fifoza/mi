@@ -36,7 +36,7 @@
 <h2>Задължителни класове за всяка страница</h2>
 <table>
   <tr>
-    <th>&nbsp; &nbsp; &nbsp; &nbsp; Име на класа &nbsp; &nbsp; &nbsp; &nbsp; </th>
+    <th>&nbsp; &nbsp; &nbsp; &nbsp; Име на клас &nbsp; &nbsp; &nbsp; &nbsp; </th>
     <th>Описание</th>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
 <h2>Полезни</h2>
 <table>
   <tr>
-    <th>Име на клас</th>
+    <th>&nbsp; &nbsp; &nbsp; &nbsp; Име на клас &nbsp; &nbsp; &nbsp; &nbsp; </th>
     <th>Описание</th>
   </tr>
   <tr>
@@ -138,7 +138,7 @@
 <h2>Полезни за навигацията</h2>
 <table>
   <tr>
-    <th>Име на клас</th>
+    <th>&nbsp; &nbsp; &nbsp; &nbsp; Име на клас &nbsp; &nbsp; &nbsp; &nbsp; </th>
     <th>Описание</th>
   </tr>
   <tr>
@@ -170,7 +170,7 @@
 <h2>Контейнери</h2>
 <table>
   <tr>
-    <th>име на класа</th>
+    <th>&nbsp; &nbsp; &nbsp; &nbsp; Име на клас &nbsp; &nbsp; &nbsp; &nbsp; </th>
     <th>описание</th>
   </th>
   <tr>
