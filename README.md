@@ -25,14 +25,15 @@
     <td>Слага се задължително на main елемента!</td>
   </tr>
   <tr>
-    <td>`.mi-footer`</td>
+    <td>        .mi-footer        </td>
     <td>Слага се задължително на footer елемента в страницата!</td>
   </tr>
   <tr>
     <td colspan=2>
-```html
-<h2>habala babala</h2>
-```</td>
+
+              <h2>habala babala</h2>
+
+    </td>
   </tr>
 </table>
 
