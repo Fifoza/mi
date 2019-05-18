@@ -93,10 +93,12 @@
   </li>
 
   <li>
-    <b><i>.mi-gap-?-for-desktop</i></b>
-    <b><i>.mi-gap-?-for-notebook</i></b>
-    <b><i>.mi-gap-?-for-tablet</i></b>
-    <b><i>.mi-gap-?-for-mobile</i></b>
+    <ul>
+      <li><b><i>.mi-gap-?-for-desktop</i></b></li>
+      <li><b><i>.mi-gap-?-for-notebook</i></b></li>
+      <li><b><i>.mi-gap-?-for-tablet</i></b></li>
+      <li><b><i>.mi-gap-?-for-mobile</i></b></li>
+    </ul>
     <p>Помага на елементи с display: grid; да дишат(примерно във footer елемента). Нужно е да ? да се замести със стойност от 0 до 5. Колкото по-голямо е числото, толкова повече място ще бъде осигурено.</p>
   </li>
 
