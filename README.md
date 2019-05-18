@@ -36,7 +36,7 @@
 <h2>Задължителни класове за всяка страница</h2>
 <table>
   <tr>
-    <th width="100">Име на класа</th>
+    <th>Име на класа &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
     <th>Описание</th>
   </tr>
   <tr>
