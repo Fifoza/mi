@@ -29,11 +29,11 @@
     <td>Слага се задължително на footer елемента в страницата!</td>
   </tr>
   <tr>
-    <td colspan=2>
+<td colspan=2>
 
-              <h2>habala babala</h2>
+        <h2>habala babala</h2>
 
-    </td>
+</td>
   </tr>
 </table>
 
